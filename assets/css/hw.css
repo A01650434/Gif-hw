@@ -1,5 +1,5 @@
 body {
-	background-image: url("");
+	background-image: url("assets/iiiiii.png");
 	margin: 0px;
 	padding: 0px;
 }
@@ -17,12 +17,12 @@ body {
 .topic {
 	margin-right: 5px;
 	margin-bottom: 5px;
-	background-color: pink;
+	background-color: plum;
 	color: white;
 }
 
 #add-topic {
-	background-color: pink;
+	background-color: plum;
 	color: white;
 	margin-top: 10px;
 	margin-bottom: 10px;
